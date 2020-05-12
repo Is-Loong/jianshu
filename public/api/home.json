@@ -1,0 +1,62 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [{
+                "id": 1,
+                "title": "社会热点1",
+                "imgUrl": "static/img/beauty.jpeg"
+            },
+            {
+                "id": 2,
+                "title": "社会热点2",
+                "imgUrl": "static/img/snow.jpg"
+            },
+            {
+                "id": 3,
+                "title": "社会热点3",
+                "imgUrl": "static/img/fish.jpg"
+            },
+            {
+                "id": 4,
+                "title": "社会热点4",
+                "imgUrl": "static/img/beauty.jpeg"
+            }
+        ],
+        "artitleList": [{
+                "id": 1,
+                "title": "真正的孤独（经典好文）",
+                "desc": "文：贾平凹 好多人在说自己孤独，说自己孤独的人其实并不孤独。孤独不是受到了冷落和遗弃，而是无知己，不被理解。真正的孤独者不言孤独，偶尔做些长啸，...",
+                "imgUrl": "static/img/info.jpeg"
+            },
+            {
+                "id": 2,
+                "title": "真正的孤独（经典好文）",
+                "desc": "文：贾平凹 好多人在说自己孤独，说自己孤独的人其实并不孤独。孤独不是受到了冷落和遗弃，而是无知己，不被理解。真正的孤独者不言孤独，偶尔做些长啸，...",
+                "imgUrl": "static/img/pain.jpg"
+            },
+            {
+                "id": 3,
+                "title": "真正的孤独（经典好文）",
+                "desc": "文：贾平凹 好多人在说自己孤独，说自己孤独的人其实并不孤独。孤独不是受到了冷落和遗弃，而是无知己，不被理解。真正的孤独者不言孤独，偶尔做些长啸，...",
+                "imgUrl": "static/img/sun.png"
+            }
+        ],
+        "recommendList": [{
+                "id": 1,
+                "imgUrl": "static/img/right1.png"
+            },
+            {
+                "id": 2,
+                "imgUrl": "static/img/right2.png"
+            },
+            {
+                "id": 3,
+                "imgUrl": "static/img/right3.png"
+            },
+            {
+                "id": 4,
+                "imgUrl": "static/img/right4.png"
+            }
+        ]
+    }
+}
