@@ -8,6 +8,7 @@
         "@testing-library/user-event": "^7.1.2",
         "axios": "^0.19.2",
         "babel-plugin-import": "^1.13.0",
+        "html-react-parser": "^0.10.3",
         "immutable": "^4.0.0-rc.12",
         "react": "^16.13.1",
         "react-dom": "^16.13.1",

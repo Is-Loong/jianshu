@@ -1,3 +1,5 @@
+启动前：npm i
+
 ## react 不支持 less ，需要安装并通过 customize-cra 加载 less,
 
 ## 安装 "customize-cra": "^1.0.0-alpha.0", 然后创建 config-overrides.js
@@ -10,13 +12,15 @@
 
 ## static/iconfont 文件夹里的图标文件是通过 iconfont.cn 下载
 
-## 浏览器打开 demo_index.html 有,使用前先要处理下:
+项目启动时 demo_index.html 会有警告，可以先把这个文件粘出去
+
+## 浏览器打开 demo_index.html 粘贴 Unicode 来显示 icon,使用前先要处理下:
 
 1、iconfont.css 中路径加上 ‘./’ 除了 base64
-2、.icon41:before／.iconAa:before ／.iconbi:before 删除
+2、删除 .icon41:before／.iconAa:before ／.iconbi:before
 3、改名为 js 文件，引入全局样式声名:
 import { injectGlobal } from 'styled-components'
-4、最后引入 app.js
+4、最后引入到 app.js
 
 ##-----------------------------------------------------
 
