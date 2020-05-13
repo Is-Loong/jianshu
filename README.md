@@ -10,9 +10,12 @@
 
 ##------------------------------------------------------
 
-## static/iconfont 文件夹里的图标文件是通过 iconfont.cn 下载
+# static/iconfont 文件夹里的图标文件是通过 iconfont.cn 下载
+
+```
 
 项目启动时 demo_index.html 会有警告，可以先把这个文件粘出去
+```
 
 ## 浏览器打开 demo_index.html 粘贴 Unicode 来显示 icon,使用前先要处理下:
 
